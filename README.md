@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Triibo as Mobile Developer
 - 🌱 I’m currently learning React Native, React and Node
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/RamonFossa">
