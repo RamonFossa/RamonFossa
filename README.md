@@ -1,7 +1,7 @@
 ### Hello! I'm Ramon 👋
 
 - 🔭 I’m currently working at Triibo as Mobile Developer
-- 🌱 I’m currently learning React Native, React and Node
+- 🌱 I’m currently learning GoLang
 - 😄 Pronouns: he/him
 
 <div align="center">
